@@ -1,1 +1,1 @@
-# data-augmentation-fundamentals
+# Data augmentation fundamentals
